@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	GitHub 테스트
+	GitHub 테스트!
 </body>	
 </html>
