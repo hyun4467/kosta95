@@ -8,5 +8,6 @@
 </head>
 <body>
 	GitHub 테스트!
+	GitHub 테스트: 수정합니다!
 </body>	
 </html>
